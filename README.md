@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Hola, soy Victor Manuel 👋</h1>
 </div>
-
+<img src="https://res.cloudinary.com/vicdev/image/upload/fl_preserve_transparency/v1729816376/q3xszyzebtb3czecbqx3.jpg?_s=public-apps">
 
 ## Sobre mi
 
-Soy un desarrollador web apasionado por crear sitios modernos y eficientes con React JS, NextJS, Astro y TailwindCSS 🚀. Me encanta explorar nuevas tecnologías cada día, desafiándome a entender cómo funcionan las cosas bajo el capó 🔍. Si no estoy codificando, probablemente me encuentres aprendiendo cómo desarrollarlos videojuegos 🎮. ¡ Siempre listo para nuevos desafíos y para colaborar en proyectos que marquen la diferencia!
+Soy un desarrollador web apasionado por crear sitios modernos y eficientes con React JS, NextJS, Astro y TailwindCSS 🚀. Me encanta explorar nuevas tecnologías cada día, desafiándome a entender cómo funcionan las cosas bajo el capó 🔍. Si no estoy codificando, probablemente me encuentres aprendiendo cómo desarrollar videojuegos 🎮. ¡ Siempre listo para nuevos desafíos y para colaborar en proyectos que marquen la diferencia!
 
 📍 Tech Stack:
 
@@ -20,18 +20,3 @@ Soy un desarrollador web apasionado por crear sitios modernos y eficientes con R
  <h3 align="center" > ¿Colaboramos? 💻✨</h3>
 <a align="center" href="mailto:victormel2003@gmail.com">Escribeme 📨 </a> 
 </div>
-
-<!--
-**VictorManl/VictorManl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
