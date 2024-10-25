@@ -1,24 +1,23 @@
-<div align="center">
-  <h1>Hola, soy Victor Manuel 👋</h1>
-</div>
-<div align="center">
-<img src="https://res.cloudinary.com/vicdev/image/upload/fl_preserve_transparency/v1729816376/q3xszyzebtb3czecbqx3.jpg?_s=public-apps">
-</div>
+<h1 align="center">Hola 👋, Soy Victor Manuel</h1>
+<h3 align="center">Soy un desarrollador web apasionado por crear sitios modernos y eficientes con React JS, NextJS, Astro y TailwindCSS 🚀. Me encanta explorar nuevas tecnologías cada día, desafiándome a entender cómo funcionan las cosas bajo el capó 🔍. Si no estoy codificando, probablemente me encuentres aprendiendo cómo desarrollar videojuegos 🎮. ¡ Siempre listo para nuevos desafíos y para colaborar en proyectos que marquen la diferencia!</h3>
 
-## Sobre mi
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victormanl" alt="victormanl" /></a> </p>
 
-Soy un desarrollador web apasionado por crear sitios modernos y eficientes con React JS, NextJS, Astro y TailwindCSS 🚀. Me encanta explorar nuevas tecnologías cada día, desafiándome a entender cómo funcionan las cosas bajo el capó 🔍. Si no estoy codificando, probablemente me encuentres aprendiendo cómo desarrollar videojuegos 🎮. ¡ Siempre listo para nuevos desafíos y para colaborar en proyectos que marquen la diferencia!
+- 🔭 Actualmente estoy trabajando en una startup [Appvance](https://github.com/VictorManl/appvance)
 
-📍 Tech Stack:
+- 🌱 Estoy estudiando **Flutter**
 
-- React JS ⚛️
-- TailwindCSS 💨
-- NextJS ⚡
-- Astro 🌠
-- Vercel 🚀
-- Supabase ⚡
+- 💬 Preguntame sobre **React, Nextjs, Tailwindcss**
 
-<div align="center">
- <h3 align="center" > ¿Colaboramos? 💻✨</h3>
-<a align="center" href="mailto:victormel2003@gmail.com">Escribeme 📨 </a> 
-</div>
+- 📫 Como contactarme **victormel2003@gmail.com**
+
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Lenguajes y herramientas:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victormanl&show_icons=true&locale=en&layout=compact" alt="victormanl" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victormanl&" alt="victormanl" /></p>
