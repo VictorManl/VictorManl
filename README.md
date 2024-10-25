@@ -5,7 +5,7 @@
 
 ## Sobre mi
 
-¡Hola! Soy Victor, un desarrollador web apasionado por crear sitios modernos y eficientes con React JS, NextJS, Astro y TailwindCSS 🚀. Me encanta explorar nuevas tecnologías cada día, desafiándome a entender cómo funcionan las cosas bajo el capó 🔍. Si no estoy codificando, probablemente me encuentres aprendiendo cómo desarrollarlos videojuegos 🎮. ¡ Siempre listo para nuevos desafíos y para colaborar en proyectos que marquen la diferencia!
+Soy un desarrollador web apasionado por crear sitios modernos y eficientes con React JS, NextJS, Astro y TailwindCSS 🚀. Me encanta explorar nuevas tecnologías cada día, desafiándome a entender cómo funcionan las cosas bajo el capó 🔍. Si no estoy codificando, probablemente me encuentres aprendiendo cómo desarrollarlos videojuegos 🎮. ¡ Siempre listo para nuevos desafíos y para colaborar en proyectos que marquen la diferencia!
 
 📍 Tech Stack:
 
@@ -14,9 +14,10 @@
 - NextJS ⚡
 - Astro 🌠
 - Vercel 🚀
+- Supabase ⚡
 
 <div align="center">
- <h4 align="center" > ¿Colaboramos? 💻✨</h4>
+ <h3 align="center" > ¿Colaboramos? 💻✨</h3>
 <a align="center" href="mailto:victormel2003@gmail.com">Escribeme 📨 </a> 
 </div>
 
