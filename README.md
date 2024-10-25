@@ -1,7 +1,9 @@
 <div align="center">
   <h1>Hola, soy Victor Manuel 👋</h1>
 </div>
+<div align="center">
 <img src="https://res.cloudinary.com/vicdev/image/upload/fl_preserve_transparency/v1729816376/q3xszyzebtb3czecbqx3.jpg?_s=public-apps">
+</div>
 
 ## Sobre mi
 
